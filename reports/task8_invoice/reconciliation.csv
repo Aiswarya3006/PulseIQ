@@ -1,0 +1,4 @@
+Metric,Calculated,Expected,Difference
+Closing receivables at 30-Sep-2026,139394278.0,139394278.0,0.0
+Bank balance (account 1001),290962361.45,290962361.45,0.0
+Invoice payments vs invoice amount_paid,1419349558.0,1419349658.0,-100.0

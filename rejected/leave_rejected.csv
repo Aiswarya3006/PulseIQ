@@ -1,0 +1,1 @@
+leave_request_id,employee_id,employee_key,leave_type_code,start_date_key,end_date_key,start_date,end_date,days,status,applied_on,decided_on,approver_id,reason,rejection_reason

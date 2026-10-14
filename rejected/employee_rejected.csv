@@ -1,0 +1,2 @@
+employee_id,employee_name,joining_date,leaving_date,department,rejection_reason
+E004,Ravi,2025-03-20,2025-02-10,Finance,Leaving date before joining date

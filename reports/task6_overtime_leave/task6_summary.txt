@@ -1,0 +1,31 @@
+TASK 6 - OVERTIME & LEAVE IMPACT
+Payroll rows processed: 7344
+Attendance rows processed: 7343
+Leave requests processed: 3441
+Payroll date range: 2025-04 to 2026-09
+Total overtime pay (raw): 3,024,619.28
+Total employer cost (raw): 861,997,359.88
+Total payroll LOP days (raw): 1,599.00
+Total leave days (all statuses): 7,999.00
+Approved leave days: 7,276.00
+Quality flags created: 93
+
+CAVEATS:
+- These are raw totals, not corrected/validated totals.
+- Duplicate and orphan payroll rows are flagged, not automatically removed.
+- Attendance-after-exit records are flagged for review.
+- Invalid leave date records are flagged; source values are preserved.
+- Payroll overtime_hours_paid and attendance overtime_hours are separate measures.
+- Department reports suppress groups with fewer than 5 employees.
+- Review dq_known_issues and the data contracts before final reporting.
+
+
+TASK 6 ? VALIDATION ADDENDUM
+
+- Data-quality flag counts: 4 duplicate payroll candidates, 2 orphan payroll employee candidates, 85 attendance-after-exit candidates, and 2 invalid leave-date records (93 total).
+- Leave-date review confirmed LR-000025 (2026-02-20 to 2026-02-19) and LR-002286 (2026-03-24 to 2026-03-23) have end dates before start dates.
+- Payroll candidates: PI-000761 and PI-X0002 share employee EMP-0598 and run PR-2025-05; PI-004059 and PI-X0001 share employee EMP-0194 and run PR-2026-02. Synthetic-record handling still requires confirmation against the applicable contract.
+- Orphan candidates PI-X0003 (EMP-9001) and PI-X0004 (EMP-9002) were not found in dim_employee; confirm whether these are expected synthetic records.
+- Attendance-after-exit validation compared period_end_date against employee exit_date and classified all 85 flagged rows as AFTER_EXIT_CONFIRMED. Results saved to reports/task6_overtime_leave/attendance_exit_validation.csv.
+- Original source data was not modified. Flagged records remain documented for review.
+- Status: Outputs generated and checks performed; final sign-off depends on confirming synthetic-record rules and reviewing the relevant data contracts.

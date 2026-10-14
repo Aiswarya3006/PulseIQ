@@ -1,0 +1,6 @@
+
+pandas
+pandera
+pyarrow
+pytest
+openpyxl

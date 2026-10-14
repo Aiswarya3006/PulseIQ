@@ -1,0 +1,4 @@
+employee_id,employee_name,joining_date,leaving_date,department,joining_month,joining_year,tenure_days
+E001,Arun Kumar,2024-01-15,,IT,1,2024,717
+E002,Priya,2023-06-10,,HR,6,2023,936
+E003,Arun Kumar,2024-01-15,,IT,1,2024,717

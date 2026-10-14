@@ -1,0 +1,9 @@
+Task 5 - Payroll Cost Dashboard preparation
+Months reconciled: 18
+All 18 months match: True
+Total employer cost: 861,586,392.42
+Total headcount flags: 7,340
+Monthly reconciliation failures: 0
+
+Synthetic PI-X records excluded from this analysis.
+Validate the data-contract rule for synthetic records before final submission.

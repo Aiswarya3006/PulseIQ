@@ -1,0 +1,9 @@
+TASK 5 - PAYROLL DASHBOARD METRICS
+Months included: 18
+Total employer cost: 861,586,392.42
+Highest-cost month: 2026-04 (62,168,025.50)
+Lowest-cost month: 2025-05 (40,655,815.02)
+Highest-cost department: D01 (341,011,491.13)
+
+Note: PI-X synthetic records are excluded pending data-contract confirmation.
+Validate small-group privacy rules before publishing department/role breakdowns.

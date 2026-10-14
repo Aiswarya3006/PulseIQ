@@ -1,0 +1,12 @@
+
+FROM apache/superset:latest
+
+USER root
+
+RUN /usr/local/bin/python -m pip install --no-cache-dir \
+    --target=/app/.venv/lib/python3.10/site-packages \
+    psycopg2-binary
+
+RUN /app/.venv/bin/python -c "import psycopg2; print(psycopg2.__version__)"
+
+USER superset
