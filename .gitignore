@@ -1,0 +1,23 @@
+﻿.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+
+# Local databases
+*.duckdb
+*.duckdb.wal
+
+# Data files - keep private/local
+clean/
+rejected/
+reports/*.csv
+reports/*.json
+reports/*.txt
+
+# Local generated files
+
+docs/*.csv
