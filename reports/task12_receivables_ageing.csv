@@ -1,0 +1,4 @@
+ageing_bucket,invoice_count,outstanding_amount
+0-30 days,59,134417038.0
+61-90 days,1,1940982.0
+90+ days,2,3036258.0
