@@ -1,0 +1,502 @@
+expense_id,expense_date,category_account,category_name,vendor_id,vendor_name,department_name,amount_excl_gst,gst_amount,total_amount,status
+EXP-00001,2025-04-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,70650,12717.0,83367.0,PAID
+EXP-00002,2025-04-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,1085560,195400.8,1280960.8,PAID
+EXP-00003,2025-04-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,1228780,221180.4,1449960.4,PAID
+EXP-00004,2025-04-01,5111,Insurance,V-028,Medicare Group Health Cover,Human Resources,26700,4806.0,31506.0,PAID
+EXP-00005,2025-04-01,5111,Insurance,V-028,Medicare Group Health Cover,Human Resources,2093300,376794.0,2470094.0,PAID
+EXP-00006,2025-04-02,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,249010,12450.5,261460.5,PAID
+EXP-00007,2025-04-02,5108,Professional Fees,V-021,Lexicon Legal Associates,Legal & Compliance,435120,78321.6,513441.6,PAID
+EXP-00008,2025-04-03,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,342120,61581.6,403701.6,PAID
+EXP-00009,2025-04-03,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,63250,11385.0,74635.0,PAID
+EXP-00010,2025-04-07,5105,Software Subscriptions,V-010,CodeCraft Tools,Product & Design,548250,98685.0,646935.0,PAID
+EXP-00011,2025-04-07,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,938490,168928.2,1107418.2,PAID
+EXP-00012,2025-04-08,5105,Software Subscriptions,V-010,CodeCraft Tools,Product & Design,334280,60170.4,394450.4,PAID
+EXP-00013,2025-04-08,5110,Training & Development,V-025,LearnForge Academy,Human Resources,45480,8186.4,53666.4,PAID
+EXP-00014,2025-04-09,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,79070,14232.6,93302.6,PAID
+EXP-00015,2025-04-09,5110,Training & Development,V-026,SkillSphere Training,Human Resources,199590,35926.2,235516.2,PAID
+EXP-00016,2025-04-10,5102,Utilities,V-005,MetroWater Services,Operations & IT,45740,8233.2,53973.2,PAID
+EXP-00017,2025-04-11,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,28210,3385.2,31595.2,PAID
+EXP-00018,2025-04-14,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,272490,49048.2,321538.2,PAID
+EXP-00019,2025-04-17,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,218270,39288.6,257558.6,PAID
+EXP-00020,2025-04-21,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Data & AI,1359420,244695.6,1604115.6,PAID
+EXP-00021,2025-04-21,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,13120,656.0,13776.0,PAID
+EXP-00022,2025-04-22,5105,Software Subscriptions,V-012,SecureAuth Systems,Data & AI,71470,12864.6,84334.6,PAID
+EXP-00023,2025-04-22,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,52950,2647.5,55597.5,PAID
+EXP-00024,2025-04-24,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,236990,11849.5,248839.5,PAID
+EXP-00025,2025-04-24,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,170180,8509.0,178689.0,PAID
+EXP-00026,2025-04-29,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,167160,30088.8,197248.8,PAID
+EXP-00027,2025-04-29,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,367700,66186.0,433886.0,PAID
+EXP-00028,2025-04-29,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,148750,26775.0,175525.0,PAID
+EXP-00029,2025-04-30,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,150840,27151.2,177991.2,PAID
+EXP-00030,2025-05-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,78020,14043.6,92063.6,PAID
+EXP-00031,2025-05-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,367660,66178.8,433838.8,PAID
+EXP-00032,2025-05-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,1383830,249089.4,1632919.4,PAID
+EXP-00033,2025-05-01,5105,Software Subscriptions,V-010,CodeCraft Tools,Operations & IT,170580,30704.4,201284.4,PAID
+EXP-00034,2025-05-01,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,45070,2253.5,47323.5,PAID
+EXP-00035,2025-05-01,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Engineering,282840,14142.0,296982.0,PAID
+EXP-00036,2025-05-02,5102,Utilities,V-005,MetroWater Services,Operations & IT,215180,38732.4,253912.4,PAID
+EXP-00037,2025-05-02,5105,Software Subscriptions,V-011,Collabora Suite,Engineering,22540,4057.2,26597.2,PAID
+EXP-00038,2025-05-02,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,69770,12558.6,82328.6,PAID
+EXP-00039,2025-05-05,5110,Training & Development,V-025,LearnForge Academy,Human Resources,290670,52320.6,342990.6,PAID
+EXP-00040,2025-05-07,5110,Training & Development,V-025,LearnForge Academy,Human Resources,42270,7608.6,49878.6,PAID
+EXP-00041,2025-05-08,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,14640,2635.2,17275.2,PAID
+EXP-00042,2025-05-08,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Marketing,85240,10228.8,95468.8,PAID
+EXP-00043,2025-05-08,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Marketing,8930,1071.6,10001.6,PAID
+EXP-00044,2025-05-08,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Finance & Accounts,613760,110476.8,724236.8,PAID
+EXP-00045,2025-05-12,5105,Software Subscriptions,V-011,Collabora Suite,Engineering,74760,13456.8,88216.8,PAID
+EXP-00046,2025-05-12,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,581390,104650.2,686040.2,PAID
+EXP-00047,2025-05-14,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Data & AI,24840,4471.2,29311.2,PAID
+EXP-00048,2025-05-14,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,1311900,236142.0,1548042.0,PAID
+EXP-00049,2025-05-15,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,92850,16713.0,109563.0,PAID
+EXP-00050,2025-05-16,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,26810,1340.5,28150.5,PAID
+EXP-00051,2025-05-19,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,396800,71424.0,468224.0,PAID
+EXP-00052,2025-05-21,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,229290,41272.2,270562.2,PAID
+EXP-00053,2025-05-22,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,54750,9855.0,64605.0,PAID
+EXP-00054,2025-05-26,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,109700,19746.0,129446.0,PAID
+EXP-00055,2025-05-28,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Data & AI,463930,83507.4,547437.4,PAID
+EXP-00056,2025-05-30,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,307670,55380.6,363050.6,PAID
+EXP-00057,2025-06-02,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,240390,43270.2,283660.2,PAID
+EXP-00058,2025-06-02,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,851960,153352.8,1005312.8,PAID
+EXP-00059,2025-06-02,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,972920,175125.6,1148045.6,PAID
+EXP-00060,2025-06-03,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,272690,49084.2,321774.2,PAID
+EXP-00061,2025-06-03,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,54760,9856.8,64616.8,PAID
+EXP-00062,2025-06-03,5108,Professional Fees,V-022,Prism Advisory Services,Legal & Compliance,492470,88644.6,581114.6,PAID
+EXP-00063,2025-06-04,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Engineering,421950,75951.0,497901.0,PAID
+EXP-00064,2025-06-06,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,249390,44890.2,294280.2,PAID
+EXP-00065,2025-06-09,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,1333290,239992.2,1573282.2,PAID
+EXP-00066,2025-06-09,5110,Training & Development,V-026,SkillSphere Training,Human Resources,87520,15753.6,103273.6,PAID
+EXP-00067,2025-06-09,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,151010,27181.8,178191.8,PAID
+EXP-00068,2025-06-10,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,56040,10087.2,66127.2,PAID
+EXP-00069,2025-06-11,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,150610,27109.8,177719.8,PAID
+EXP-00070,2025-06-12,5106,Travel & Conveyance,V-016,CityCabs Corporate,Marketing,259050,12952.5,272002.5,PAID
+EXP-00071,2025-06-12,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,806240,145123.2,951363.2,PAID
+EXP-00072,2025-06-16,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,32570,5862.6,38432.6,PAID
+EXP-00073,2025-06-17,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Engineering,404160,72748.8,476908.8,PAID
+EXP-00074,2025-06-19,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,57040,2852.0,59892.0,PAID
+EXP-00075,2025-06-20,5102,Utilities,V-005,MetroWater Services,Operations & IT,91460,16462.8,107922.8,PAID
+EXP-00076,2025-06-20,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,138170,16580.4,154750.4,PAID
+EXP-00077,2025-06-23,5110,Training & Development,V-025,LearnForge Academy,Human Resources,207910,37423.8,245333.8,PAID
+EXP-00078,2025-06-24,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,124760,22456.8,147216.8,PAID
+EXP-00079,2025-06-24,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,577680,103982.4,681662.4,PAID
+EXP-00080,2025-06-30,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,64560,3228.0,67788.0,PAID
+EXP-00081,2025-07-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,283760,51076.8,334836.8,PAID
+EXP-00082,2025-07-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,915030,164705.4,1079735.4,PAID
+EXP-00083,2025-07-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,691550,124479.0,816029.0,PAID
+EXP-00084,2025-07-01,5111,Insurance,V-028,Medicare Group Health Cover,Human Resources,12050,2169.0,14219.0,PAID
+EXP-00085,2025-07-01,5111,Insurance,V-028,Medicare Group Health Cover,Human Resources,1668240,300283.2,1968523.2,PAID
+EXP-00086,2025-07-02,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,46220,8319.6,54539.6,PAID
+EXP-00087,2025-07-03,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Product & Design,52740,9493.2,62233.2,PAID
+EXP-00088,2025-07-04,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Engineering,58620,2931.0,61551.0,PAID
+EXP-00089,2025-07-04,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,299170,53850.6,353020.6,PAID
+EXP-00090,2025-07-07,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,259330,46679.4,306009.4,PAID
+EXP-00091,2025-07-08,5102,Utilities,V-005,MetroWater Services,Operations & IT,283560,51040.8,334600.8,PAID
+EXP-00092,2025-07-08,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,791960,142552.8,934512.8,PAID
+EXP-00093,2025-07-09,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,521440,62572.8,584012.8,PAID
+EXP-00094,2025-07-11,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,187410,33733.8,221143.8,PAID
+EXP-00095,2025-07-11,5106,Travel & Conveyance,V-016,CityCabs Corporate,Marketing,40230,4827.6,45057.6,PAID
+EXP-00096,2025-07-11,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,33850,1692.5,35542.5,PAID
+EXP-00097,2025-07-11,5108,Professional Fees,V-022,Prism Advisory Services,Legal & Compliance,483650,87057.0,570707.0,PAID
+EXP-00098,2025-07-14,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Operations & IT,3550,639.0,4189.0,PAID
+EXP-00099,2025-07-14,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,257350,46323.0,303673.0,PAID
+EXP-00100,2025-07-17,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,64640,11635.2,76275.2,PAID
+EXP-00101,2025-07-17,5105,Software Subscriptions,V-010,CodeCraft Tools,Data & AI,465250,83745.0,548995.0,PAID
+EXP-00102,2025-07-18,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,285280,51350.4,336630.4,PAID
+EXP-00103,2025-07-21,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Data & AI,587070,105672.6,692742.6,PAID
+EXP-00104,2025-07-21,5105,Software Subscriptions,V-010,CodeCraft Tools,Product & Design,234590,42226.2,276816.2,PAID
+EXP-00105,2025-07-21,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Marketing,51480,2574.0,54054.0,PAID
+EXP-00106,2025-07-22,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,582550,104859.0,687409.0,PAID
+EXP-00107,2025-07-23,5110,Training & Development,V-026,SkillSphere Training,Human Resources,250710,45127.8,295837.8,PAID
+EXP-00108,2025-07-24,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,121810,21925.8,143735.8,PAID
+EXP-00109,2025-07-25,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Engineering,68000,3400.0,71400.0,PAID
+EXP-00110,2025-07-28,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,82620,14871.6,97491.6,PAID
+EXP-00111,2025-07-29,5110,Training & Development,V-025,LearnForge Academy,Human Resources,22670,4080.6,26750.6,PAID
+EXP-00112,2025-08-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,874600,157428.0,1032028.0,PAID
+EXP-00113,2025-08-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,544880,98078.4,642958.4,PAID
+EXP-00114,2025-08-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,487620,87771.6,575391.6,PAID
+EXP-00115,2025-08-01,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Marketing,207750,10387.5,218137.5,PAID
+EXP-00116,2025-08-04,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,228510,41131.8,269641.8,PAID
+EXP-00117,2025-08-04,5110,Training & Development,V-026,SkillSphere Training,Human Resources,115580,20804.4,136384.4,PAID
+EXP-00118,2025-08-06,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,138120,16574.4,154694.4,PAID
+EXP-00119,2025-08-06,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,237120,42681.6,279801.6,PAID
+EXP-00120,2025-08-07,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,223520,40233.6,263753.6,PAID
+EXP-00121,2025-08-07,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Engineering,1490,178.8,1668.8,PAID
+EXP-00122,2025-08-07,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,80550,9666.0,90216.0,PAID
+EXP-00123,2025-08-07,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,198740,35773.2,234513.2,PAID
+EXP-00124,2025-08-12,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,1280630,230513.4,1511143.4,PAID
+EXP-00125,2025-08-12,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,100810,18145.8,118955.8,PAID
+EXP-00126,2025-08-14,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,25770,4638.6,30408.6,PAID
+EXP-00127,2025-08-14,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,4670,840.6,5510.6,PAID
+EXP-00128,2025-08-14,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Engineering,243100,43758.0,286858.0,PAID
+EXP-00129,2025-08-14,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,13150,1578.0,14728.0,PAID
+EXP-00130,2025-08-15,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Product & Design,246160,44308.8,290468.8,PAID
+EXP-00131,2025-08-15,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,31700,3804.0,35504.0,PAID
+EXP-00132,2025-08-18,5105,Software Subscriptions,V-012,SecureAuth Systems,Operations & IT,197310,35515.8,232825.8,PAID
+EXP-00133,2025-08-19,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,68710,12367.8,81077.8,PAID
+EXP-00134,2025-08-21,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,130900,23562.0,154462.0,PAID
+EXP-00135,2025-08-21,5108,Professional Fees,V-022,Prism Advisory Services,Legal & Compliance,325900,58662.0,384562.0,PAID
+EXP-00136,2025-08-21,5110,Training & Development,V-026,SkillSphere Training,Human Resources,92790,16702.2,109492.2,PAID
+EXP-00137,2025-08-26,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,109350,5467.5,114817.5,PAID
+EXP-00138,2025-08-27,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,1235680,222422.4,1458102.4,PAID
+EXP-00139,2025-08-28,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,37170,6690.6,43860.6,PAID
+EXP-00140,2025-08-29,5105,Software Subscriptions,V-010,CodeCraft Tools,Engineering,76270,13728.6,89998.6,PAID
+EXP-00141,2025-08-29,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Legal & Compliance,244070,43932.6,288002.6,PAID
+EXP-00142,2025-09-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,481720,86709.6,568429.6,PAID
+EXP-00143,2025-09-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,1395180,251132.4,1646312.4,PAID
+EXP-00144,2025-09-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,243000,43740.0,286740.0,PAID
+EXP-00145,2025-09-01,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Legal & Compliance,473180,85172.4,558352.4,PAID
+EXP-00146,2025-09-01,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,139380,25088.4,164468.4,PAID
+EXP-00147,2025-09-02,5105,Software Subscriptions,V-011,Collabora Suite,Data & AI,282800,50904.0,333704.0,PAID
+EXP-00148,2025-09-03,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,5200,260.0,5460.0,PAID
+EXP-00149,2025-09-03,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,17500,3150.0,20650.0,PAID
+EXP-00150,2025-09-05,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,159530,28715.4,188245.4,PAID
+EXP-00151,2025-09-08,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,1059010,190621.8,1249631.8,PAID
+EXP-00152,2025-09-08,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,49050,8829.0,57879.0,PAID
+EXP-00153,2025-09-09,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,162120,29181.6,191301.6,PAID
+EXP-00154,2025-09-10,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,196560,35380.8,231940.8,PAID
+EXP-00155,2025-09-10,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,26040,4687.2,30727.2,PAID
+EXP-00156,2025-09-11,5102,Utilities,V-005,MetroWater Services,Operations & IT,196830,35429.4,232259.4,PAID
+EXP-00157,2025-09-11,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,897050,161469.0,1058519.0,PAID
+EXP-00158,2025-09-11,5110,Training & Development,V-026,SkillSphere Training,Human Resources,155820,28047.6,183867.6,PAID
+EXP-00159,2025-09-12,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,392270,70608.6,462878.6,PAID
+EXP-00160,2025-09-15,5108,Professional Fees,V-022,Prism Advisory Services,Finance & Accounts,208600,37548.0,246148.0,PAID
+EXP-00161,2025-09-16,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,75620,13611.6,89231.6,PAID
+EXP-00162,2025-09-19,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,207040,37267.2,244307.2,PAID
+EXP-00163,2025-09-24,5105,Software Subscriptions,V-012,SecureAuth Systems,Engineering,41160,7408.8,48568.8,PAID
+EXP-00164,2025-09-24,5105,Software Subscriptions,V-010,CodeCraft Tools,Data & AI,524010,94321.8,618331.8,PAID
+EXP-00165,2025-09-24,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,104680,5234.0,109914.0,PAID
+EXP-00166,2025-09-25,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,277580,33309.6,310889.6,PAID
+EXP-00167,2025-09-29,5110,Training & Development,V-026,SkillSphere Training,Human Resources,177940,32029.2,209969.2,PAID
+EXP-00168,2025-10-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,527530,94955.4,622485.4,PAID
+EXP-00169,2025-10-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,1366670,246000.6,1612670.6,PAID
+EXP-00170,2025-10-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,135600,24408.0,160008.0,PAID
+EXP-00171,2025-10-01,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Engineering,47630,5715.6,53345.6,PAID
+EXP-00172,2025-10-01,5111,Insurance,V-028,Medicare Group Health Cover,Human Resources,1400950,252171.0,1653121.0,PAID
+EXP-00173,2025-10-01,5111,Insurance,V-028,Medicare Group Health Cover,Human Resources,403320,72597.6,475917.6,PAID
+EXP-00174,2025-10-03,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,38710,6967.8,45677.8,PAID
+EXP-00175,2025-10-06,5102,Utilities,V-005,MetroWater Services,Operations & IT,353820,63687.6,417507.6,PAID
+EXP-00176,2025-10-06,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Operations & IT,63790,11482.2,75272.2,PAID
+EXP-00177,2025-10-06,5105,Software Subscriptions,V-011,Collabora Suite,Product & Design,180520,32493.6,213013.6,PAID
+EXP-00178,2025-10-06,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,115200,20736.0,135936.0,PAID
+EXP-00179,2025-10-07,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,865520,155793.6,1021313.6,PAID
+EXP-00180,2025-10-08,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,83990,10078.8,94068.8,PAID
+EXP-00181,2025-10-10,5110,Training & Development,V-025,LearnForge Academy,Human Resources,211180,38012.4,249192.4,PAID
+EXP-00182,2025-10-14,5105,Software Subscriptions,V-010,CodeCraft Tools,Engineering,514090,92536.2,606626.2,PAID
+EXP-00183,2025-10-14,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,592610,106669.8,699279.8,PAID
+EXP-00184,2025-10-14,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,65220,11739.6,76959.6,PAID
+EXP-00185,2025-10-15,5102,Utilities,V-005,MetroWater Services,Operations & IT,8840,1591.2,10431.2,PAID
+EXP-00186,2025-10-20,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,30180,3621.6,33801.6,PAID
+EXP-00187,2025-10-20,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,541410,97453.8,638863.8,PAID
+EXP-00188,2025-10-21,5110,Training & Development,V-026,SkillSphere Training,Human Resources,48720,8769.6,57489.6,PAID
+EXP-00189,2025-10-22,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,755460,135982.8,891442.8,PAID
+EXP-00190,2025-10-23,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,638810,114985.8,753795.8,PAID
+EXP-00191,2025-10-23,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,98010,17641.8,115651.8,PAID
+EXP-00192,2025-10-24,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,528560,63427.2,591987.2,PAID
+EXP-00193,2025-10-24,5108,Professional Fees,V-022,Prism Advisory Services,Finance & Accounts,18300,3294.0,21594.0,PAID
+EXP-00194,2025-10-28,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Legal & Compliance,283960,51112.8,335072.8,PAID
+EXP-00195,2025-10-30,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,164450,29601.0,194051.0,PAID
+EXP-00196,2025-10-30,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,106190,19114.2,125304.2,PAID
+EXP-00197,2025-10-30,5105,Software Subscriptions,V-011,Collabora Suite,Engineering,53510,9631.8,63141.8,PAID
+EXP-00198,2025-10-31,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,29080,3489.6,32569.6,PAID
+EXP-00199,2025-11-03,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,485570,87402.6,572972.6,PAID
+EXP-00200,2025-11-03,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,899570,161922.6,1061492.6,PAID
+EXP-00201,2025-11-03,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,542460,97642.8,640102.8,PAID
+EXP-00202,2025-11-05,5105,Software Subscriptions,V-010,CodeCraft Tools,Engineering,186170,33510.6,219680.6,PAID
+EXP-00203,2025-11-05,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,102370,18426.6,120796.6,PAID
+EXP-00204,2025-11-06,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,1159230,208661.4,1367891.4,PAID
+EXP-00205,2025-11-07,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,26330,4739.4,31069.4,PAID
+EXP-00206,2025-11-10,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,88900,16002.0,104902.0,PAID
+EXP-00207,2025-11-11,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,541850,97533.0,639383.0,PAID
+EXP-00208,2025-11-13,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,51380,9248.4,60628.4,PAID
+EXP-00209,2025-11-13,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,152660,27478.8,180138.8,PAID
+EXP-00210,2025-11-14,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,145020,26103.6,171123.6,PAID
+EXP-00211,2025-11-17,5105,Software Subscriptions,V-011,Collabora Suite,Operations & IT,246330,44339.4,290669.4,PAID
+EXP-00212,2025-11-17,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,95840,4792.0,100632.0,PAID
+EXP-00213,2025-11-17,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Marketing,144990,7249.5,152239.5,PAID
+EXP-00214,2025-11-17,5110,Training & Development,V-026,SkillSphere Training,Human Resources,110340,19861.2,130201.2,PAID
+EXP-00215,2025-11-18,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,73520,13233.6,86753.6,PAID
+EXP-00216,2025-11-19,5105,Software Subscriptions,V-011,Collabora Suite,Data & AI,123270,22188.6,145458.6,PAID
+EXP-00217,2025-11-19,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Marketing,13210,660.5,13870.5,PAID
+EXP-00218,2025-11-20,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,954890,171880.2,1126770.2,PAID
+EXP-00219,2025-11-24,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,347140,41656.8,388796.8,PAID
+EXP-00220,2025-11-25,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,168120,30261.6,198381.6,PAID
+EXP-00221,2025-11-25,5105,Software Subscriptions,V-012,SecureAuth Systems,Product & Design,215270,38748.6,254018.6,PAID
+EXP-00222,2025-11-26,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,272680,49082.4,321762.4,PAID
+EXP-00223,2025-11-26,5110,Training & Development,V-026,SkillSphere Training,Human Resources,126270,22728.6,148998.6,PAID
+EXP-00224,2025-11-27,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,255970,46074.6,302044.6,PAID
+EXP-00225,2025-11-27,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Finance & Accounts,1210470,217884.6,1428354.6,PAID
+EXP-00226,2025-12-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,595950,107271.0,703221.0,PAID
+EXP-00227,2025-12-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,1480440,266479.2,1746919.2,PAID
+EXP-00228,2025-12-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,53130,9563.4,62693.4,PAID
+EXP-00229,2025-12-01,5105,Software Subscriptions,V-010,CodeCraft Tools,Product & Design,695080,125114.4,820194.4,PAID
+EXP-00230,2025-12-01,5105,Software Subscriptions,V-010,CodeCraft Tools,Product & Design,156720,28209.6,184929.6,PAID
+EXP-00231,2025-12-01,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,122700,14724.0,137424.0,PAID
+EXP-00232,2025-12-01,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Finance & Accounts,162970,29334.6,192304.6,PAID
+EXP-00233,2025-12-02,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,45340,2267.0,47607.0,PAID
+EXP-00234,2025-12-03,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,88580,4429.0,93009.0,PAID
+EXP-00235,2025-12-03,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,340450,61281.0,401731.0,PAID
+EXP-00236,2025-12-05,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,20320,3657.6,23977.6,PAID
+EXP-00237,2025-12-05,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,20230,2427.6,22657.6,PAID
+EXP-00238,2025-12-05,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Legal & Compliance,308830,55589.4,364419.4,PAID
+EXP-00239,2025-12-05,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,74170,13350.6,87520.6,PAID
+EXP-00240,2025-12-09,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,408740,73573.2,482313.2,PAID
+EXP-00241,2025-12-09,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,132460,23842.8,156302.8,PAID
+EXP-00242,2025-12-10,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,518140,93265.2,611405.2,PAID
+EXP-00243,2025-12-12,5110,Training & Development,V-026,SkillSphere Training,Human Resources,66900,12042.0,78942.0,PAID
+EXP-00244,2025-12-15,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,263620,47451.6,311071.6,PAID
+EXP-00245,2025-12-18,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,56830,10229.4,67059.4,PAID
+EXP-00246,2025-12-19,5102,Utilities,V-005,MetroWater Services,Operations & IT,222420,40035.6,262455.6,PAID
+EXP-00247,2025-12-19,5110,Training & Development,V-026,SkillSphere Training,Human Resources,235600,42408.0,278008.0,PAID
+EXP-00248,2025-12-22,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,760990,136978.2,897968.2,PAID
+EXP-00249,2025-12-24,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Engineering,70590,3529.5,74119.5,PAID
+EXP-00250,2025-12-30,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,173720,31269.6,204989.6,PAID
+EXP-00251,2025-12-30,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,658150,118467.0,776617.0,PAID
+EXP-00252,2025-12-31,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,874440,157399.2,1031839.2,PAID
+EXP-00253,2026-01-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,1293380,232808.4,1526188.4,PAID
+EXP-00254,2026-01-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,247450,44541.0,291991.0,PAID
+EXP-00255,2026-01-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,410220,73839.6,484059.6,PAID
+EXP-00256,2026-01-01,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,825880,148658.4,974538.4,PAID
+EXP-00257,2026-01-01,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,217240,39103.2,256343.2,PAID
+EXP-00258,2026-01-01,5111,Insurance,V-028,Medicare Group Health Cover,Human Resources,321710,57907.8,379617.8,PAID
+EXP-00259,2026-01-01,5111,Insurance,V-027,Suraksha General Insurance,Human Resources,1412560,254260.8,1666820.8,PAID
+EXP-00260,2026-01-02,5106,Travel & Conveyance,V-016,CityCabs Corporate,Marketing,92880,11145.6,104025.6,PAID
+EXP-00261,2026-01-06,5105,Software Subscriptions,V-012,SecureAuth Systems,Product & Design,640460,115282.8,755742.8,PAID
+EXP-00262,2026-01-06,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,166710,8335.5,175045.5,PAID
+EXP-00263,2026-01-07,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,726510,130771.8,857281.8,PAID
+EXP-00264,2026-01-12,5102,Utilities,V-005,MetroWater Services,Operations & IT,172150,30987.0,203137.0,PAID
+EXP-00265,2026-01-12,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Engineering,120920,14510.4,135430.4,PAID
+EXP-00266,2026-01-13,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,95280,11433.6,106713.6,PAID
+EXP-00267,2026-01-15,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,62360,11224.8,73584.8,PAID
+EXP-00268,2026-01-19,5110,Training & Development,V-025,LearnForge Academy,Human Resources,150140,27025.2,177165.2,PAID
+EXP-00269,2026-01-20,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,197780,35600.4,233380.4,PAID
+EXP-00270,2026-01-20,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,125540,22597.2,148137.2,PAID
+EXP-00271,2026-01-21,5108,Professional Fees,V-021,Lexicon Legal Associates,Legal & Compliance,707210,127297.8,834507.8,PAID
+EXP-00272,2026-01-21,5108,Professional Fees,V-022,Prism Advisory Services,Legal & Compliance,48200,8676.0,56876.0,PAID
+EXP-00273,2026-01-21,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,293060,52750.8,345810.8,PAID
+EXP-00274,2026-01-21,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,36880,6638.4,43518.4,PAID
+EXP-00275,2026-01-22,5102,Utilities,V-005,MetroWater Services,Operations & IT,148800,26784.0,175584.0,PAID
+EXP-00276,2026-01-22,5105,Software Subscriptions,V-012,SecureAuth Systems,Data & AI,139960,25192.8,165152.8,PAID
+EXP-00277,2026-01-22,5110,Training & Development,V-025,LearnForge Academy,Human Resources,111520,20073.6,131593.6,PAID
+EXP-00278,2026-01-22,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,136550,24579.0,161129.0,PAID
+EXP-00279,2026-01-23,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,197920,9896.0,207816.0,PAID
+EXP-00280,2026-01-26,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,512290,92212.2,604502.2,PAID
+EXP-00281,2026-01-27,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,59920,7190.4,67110.4,PAID
+EXP-00282,2026-01-29,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Marketing,24430,2931.6,27361.6,PAID
+EXP-00283,2026-01-29,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,61600,11088.0,72688.0,PAID
+EXP-00284,2026-02-02,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,458520,82533.6,541053.6,PAID
+EXP-00285,2026-02-02,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,1145060,206110.8,1351170.8,PAID
+EXP-00286,2026-02-02,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,378400,68112.0,446512.0,PAID
+EXP-00287,2026-02-02,5102,Utilities,V-005,MetroWater Services,Operations & IT,338910,61003.8,399913.8,PAID
+EXP-00288,2026-02-02,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,207310,37315.8,244625.8,PAID
+EXP-00289,2026-02-03,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Engineering,464710,83647.8,548357.8,PAID
+EXP-00290,2026-02-04,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,366810,66025.8,432835.8,PAID
+EXP-00291,2026-02-05,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Data & AI,1350740,243133.2,1593873.2,PAID
+EXP-00292,2026-02-05,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Engineering,418130,50175.6,468305.6,PAID
+EXP-00293,2026-02-05,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,123430,22217.4,145647.4,PAID
+EXP-00294,2026-02-10,5102,Utilities,V-005,MetroWater Services,Operations & IT,25190,4534.2,29724.2,PAID
+EXP-00295,2026-02-10,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Data & AI,35660,6418.8,42078.8,PAID
+EXP-00296,2026-02-12,5106,Travel & Conveyance,V-016,CityCabs Corporate,Marketing,30260,1513.0,31773.0,PAID
+EXP-00297,2026-02-12,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Finance & Accounts,448450,80721.0,529171.0,PAID
+EXP-00298,2026-02-13,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Engineering,292420,52635.6,345055.6,PAID
+EXP-00299,2026-02-16,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,52750,9495.0,62245.0,PAID
+EXP-00300,2026-02-17,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,852440,153439.2,1005879.2,PAID
+EXP-00301,2026-02-17,5110,Training & Development,V-026,SkillSphere Training,Human Resources,171210,30817.8,202027.8,PAID
+EXP-00302,2026-02-19,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,119960,14395.2,134355.2,PAID
+EXP-00303,2026-02-20,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,155580,28004.4,183584.4,PAID
+EXP-00304,2026-02-20,5108,Professional Fees,V-022,Prism Advisory Services,Legal & Compliance,18970,3414.6,22384.6,PAID
+EXP-00305,2026-02-23,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,210060,37810.8,247870.8,PAID
+EXP-00306,2026-02-23,5110,Training & Development,V-025,LearnForge Academy,Human Resources,18690,3364.2,22054.2,PAID
+EXP-00307,2026-02-24,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,40730,7331.4,48061.4,PAID
+EXP-00308,2026-02-24,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,191410,22969.2,214379.2,PAID
+EXP-00309,2026-02-27,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,108680,19562.4,128242.4,PAID
+EXP-00310,2026-03-02,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,607820,109407.6,717227.6,PAID
+EXP-00311,2026-03-02,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,1371870,246936.6,1618806.6,PAID
+EXP-00312,2026-03-02,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,229270,41268.6,270538.6,PAID
+EXP-00313,2026-03-02,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Engineering,58230,2911.5,61141.5,PAID
+EXP-00314,2026-03-03,5110,Training & Development,V-025,LearnForge Academy,Human Resources,2980,536.4,3516.4,PAID
+EXP-00315,2026-03-04,5105,Software Subscriptions,V-012,SecureAuth Systems,Engineering,199470,35904.6,235374.6,PAID
+EXP-00316,2026-03-05,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,5590,279.5,5869.5,PAID
+EXP-00317,2026-03-06,5102,Utilities,V-005,MetroWater Services,Operations & IT,305230,54941.4,360171.4,PAID
+EXP-00318,2026-03-06,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,53960,6475.2,60435.2,PAID
+EXP-00319,2026-03-09,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,67670,12180.6,79850.6,PAID
+EXP-00320,2026-03-11,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,51550,9279.0,60829.0,PAID
+EXP-00321,2026-03-12,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Engineering,47060,5647.2,52707.2,PAID
+EXP-00322,2026-03-12,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,418530,75335.4,493865.4,PAID
+EXP-00323,2026-03-12,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,62220,11199.6,73419.6,PAID
+EXP-00324,2026-03-13,5105,Software Subscriptions,V-010,CodeCraft Tools,Product & Design,217620,39171.6,256791.6,PAID
+EXP-00325,2026-03-18,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,108580,19544.4,128124.4,PAID
+EXP-00326,2026-03-18,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,36930,4431.6,41361.6,PAID
+EXP-00327,2026-03-18,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,331400,59652.0,391052.0,PAID
+EXP-00328,2026-03-23,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,217530,39155.4,256685.4,PAID
+EXP-00329,2026-03-23,5105,Software Subscriptions,V-011,Collabora Suite,Product & Design,466490,83968.2,550458.2,PAID
+EXP-00330,2026-03-23,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,335560,16778.0,352338.0,PAID
+EXP-00331,2026-03-24,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Data & AI,1706530,307175.4,2013705.4,PAID
+EXP-00332,2026-03-26,5110,Training & Development,V-026,SkillSphere Training,Human Resources,357260,64306.8,421566.8,PAID
+EXP-00333,2026-03-26,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,134130,24143.4,158273.4,PAID
+EXP-00334,2026-03-27,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,502530,90455.4,592985.4,PAID
+EXP-00335,2026-03-30,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,77000,13860.0,90860.0,PAID
+EXP-00336,2026-03-30,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Legal & Compliance,341760,61516.8,403276.8,PAID
+EXP-00337,2026-03-31,5106,Travel & Conveyance,V-016,CityCabs Corporate,Marketing,85110,4255.5,89365.5,PAID
+EXP-00338,2026-04-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,348690,62764.2,411454.2,PAID
+EXP-00339,2026-04-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,11040,1987.2,13027.2,PAID
+EXP-00340,2026-04-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,2025270,364548.6,2389818.6,PAID
+EXP-00341,2026-04-01,5111,Insurance,V-028,Medicare Group Health Cover,Human Resources,719420,129495.6,848915.6,PAID
+EXP-00342,2026-04-01,5111,Insurance,V-027,Suraksha General Insurance,Human Resources,1400580,252104.4,1652684.4,PAID
+EXP-00343,2026-04-02,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,142710,25687.8,168397.8,PAID
+EXP-00344,2026-04-03,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,175290,31552.2,206842.2,PAID
+EXP-00345,2026-04-03,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,61870,11136.6,73006.6,PAID
+EXP-00346,2026-04-07,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,5200,936.0,6136.0,PAID
+EXP-00347,2026-04-08,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Engineering,246920,12346.0,259266.0,PAID
+EXP-00348,2026-04-13,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,140420,16850.4,157270.4,PAID
+EXP-00349,2026-04-13,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Engineering,60470,3023.5,63493.5,PAID
+EXP-00350,2026-04-14,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,107960,19432.8,127392.8,PAID
+EXP-00351,2026-04-14,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,150130,27023.4,177153.4,PAID
+EXP-00352,2026-04-15,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,1494560,269020.8,1763580.8,PAID
+EXP-00353,2026-04-15,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,56330,10139.4,66469.4,PAID
+EXP-00354,2026-04-20,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,77920,9350.4,87270.4,PAID
+EXP-00355,2026-04-21,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,1161980,209156.4,1371136.4,PAID
+EXP-00356,2026-04-21,5110,Training & Development,V-025,LearnForge Academy,Human Resources,203480,36626.4,240106.4,PAID
+EXP-00357,2026-04-23,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Product & Design,333460,60022.8,393482.8,PAID
+EXP-00358,2026-04-24,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Operations & IT,620540,111697.2,732237.2,PAID
+EXP-00359,2026-04-24,5108,Professional Fees,V-022,Prism Advisory Services,Finance & Accounts,448840,80791.2,529631.2,PAID
+EXP-00360,2026-04-27,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,355010,63901.8,418911.8,PAID
+EXP-00361,2026-04-27,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,114720,20649.6,135369.6,PAID
+EXP-00362,2026-04-28,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,303920,54705.6,358625.6,PAID
+EXP-00363,2026-04-29,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,304120,54741.6,358861.6,PAID
+EXP-00364,2026-04-30,5110,Training & Development,V-025,LearnForge Academy,Human Resources,205220,36939.6,242159.6,PAID
+EXP-00365,2026-05-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,115330,20759.4,136089.4,PAID
+EXP-00366,2026-05-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,1768080,318254.4,2086334.4,PAID
+EXP-00367,2026-05-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,262860,47314.8,310174.8,PAID
+EXP-00368,2026-05-01,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Finance & Accounts,92880,16718.4,109598.4,PAID
+EXP-00369,2026-05-01,5108,Professional Fees,V-021,Lexicon Legal Associates,Finance & Accounts,634070,114132.6,748202.6,PAID
+EXP-00370,2026-05-04,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,89030,10683.6,99713.6,PAID
+EXP-00371,2026-05-04,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Marketing,164090,19690.8,184280.8,PAID
+EXP-00372,2026-05-04,5110,Training & Development,V-025,LearnForge Academy,Human Resources,156140,28105.2,184245.2,PAID
+EXP-00373,2026-05-06,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,279900,50382.0,330282.0,PAID
+EXP-00374,2026-05-08,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,63520,7622.4,71142.4,PAID
+EXP-00375,2026-05-08,5110,Training & Development,V-025,LearnForge Academy,Human Resources,153510,27631.8,181141.8,PAID
+EXP-00376,2026-05-11,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,131110,23599.8,154709.8,PAID
+EXP-00377,2026-05-12,5102,Utilities,V-005,MetroWater Services,Operations & IT,72700,13086.0,85786.0,PAID
+EXP-00378,2026-05-12,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,26920,3230.4,30150.4,PAID
+EXP-00379,2026-05-12,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Finance & Accounts,1750000,315000.0,2065000.0,PAID
+EXP-00380,2026-05-12,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,59670,10740.6,70410.6,PAID
+EXP-00381,2026-05-14,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,84460,15202.8,99662.8,PAID
+EXP-00382,2026-05-18,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Data & AI,365150,65727.0,430877.0,PAID
+EXP-00383,2026-05-18,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Engineering,88870,4443.5,93313.5,PAID
+EXP-00384,2026-05-18,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,1158160,208468.8,1366628.8,PAID
+EXP-00385,2026-05-19,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,201710,36307.8,238017.8,PAID
+EXP-00386,2026-05-19,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Marketing,23080,2769.6,25849.6,PAID
+EXP-00387,2026-05-20,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,310550,55899.0,366449.0,PAID
+EXP-00388,2026-05-21,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Data & AI,1377760,247996.8,1625756.8,PAID
+EXP-00389,2026-05-26,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,302610,54469.8,357079.8,PAID
+EXP-00390,2026-05-27,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,44870,8076.6,52946.6,PAID
+EXP-00391,2026-05-28,5105,Software Subscriptions,V-010,CodeCraft Tools,Product & Design,367880,66218.4,434098.4,PAID
+EXP-00392,2026-05-28,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,101140,12136.8,113276.8,PAID
+EXP-00393,2026-05-29,5105,Software Subscriptions,V-011,Collabora Suite,Data & AI,125480,22586.4,148066.4,PAID
+EXP-00394,2026-06-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,723300,130194.0,853494.0,PAID
+EXP-00395,2026-06-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,430370,77466.6,507836.6,PAID
+EXP-00396,2026-06-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,1231330,221639.4,1452969.4,PAID
+EXP-00397,2026-06-01,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Engineering,540810,97345.8,638155.8,PAID
+EXP-00398,2026-06-02,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,118280,5914.0,124194.0,PAID
+EXP-00399,2026-06-02,5107,Marketing & Advertising,V-019,EventSpark Productions,Marketing,592300,106614.0,698914.0,PAID
+EXP-00400,2026-06-02,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,158860,28594.8,187454.8,PAID
+EXP-00401,2026-06-03,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,215950,38871.0,254821.0,PAID
+EXP-00402,2026-06-05,5110,Training & Development,V-025,LearnForge Academy,Human Resources,242850,43713.0,286563.0,PAID
+EXP-00403,2026-06-08,5105,Software Subscriptions,V-011,Collabora Suite,Data & AI,413190,74374.2,487564.2,PAID
+EXP-00404,2026-06-08,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,37420,4490.4,41910.4,PAID
+EXP-00405,2026-06-10,5102,Utilities,V-005,MetroWater Services,Operations & IT,181150,32607.0,213757.0,PAID
+EXP-00406,2026-06-12,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,53140,9565.2,62705.2,PAID
+EXP-00407,2026-06-15,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,148560,7428.0,155988.0,PAID
+EXP-00408,2026-06-16,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Engineering,15090,1810.8,16900.8,PAID
+EXP-00409,2026-06-16,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,155390,18646.8,174036.8,PAID
+EXP-00410,2026-06-16,5108,Professional Fees,V-021,Lexicon Legal Associates,Finance & Accounts,892500,160650.0,1053150.0,PAID
+EXP-00411,2026-06-18,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,102050,18369.0,120419.0,PAID
+EXP-00412,2026-06-18,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,140900,7045.0,147945.0,PAID
+EXP-00413,2026-06-23,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,239420,43095.6,282515.6,PAID
+EXP-00414,2026-06-24,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,949740,170953.2,1120693.2,PAID
+EXP-00415,2026-06-25,5106,Travel & Conveyance,V-016,CityCabs Corporate,Engineering,153760,7688.0,161448.0,PAID
+EXP-00416,2026-06-25,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,437070,78672.6,515742.6,PAID
+EXP-00417,2026-06-25,5110,Training & Development,V-026,SkillSphere Training,Human Resources,97270,17508.6,114778.6,PAID
+EXP-00418,2026-06-29,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,756720,136209.6,892929.6,PAID
+EXP-00419,2026-06-29,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,187040,33667.2,220707.2,PAID
+EXP-00420,2026-06-30,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,995100,179118.0,1174218.0,PAID
+EXP-00421,2026-07-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,804690,144844.2,949534.2,PAID
+EXP-00422,2026-07-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,1146210,206317.8,1352527.8,PAID
+EXP-00423,2026-07-01,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,253200,45576.0,298776.0,PAID
+EXP-00424,2026-07-01,5105,Software Subscriptions,V-012,SecureAuth Systems,Engineering,439480,79106.4,518586.4,PAID
+EXP-00425,2026-07-01,5111,Insurance,V-027,Suraksha General Insurance,Human Resources,1161910,209143.8,1371053.8,PAID
+EXP-00426,2026-07-01,5111,Insurance,V-027,Suraksha General Insurance,Human Resources,797290,143512.2,940802.2,PAID
+EXP-00427,2026-07-02,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,724590,130426.2,855016.2,PAID
+EXP-00428,2026-07-02,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,1002290,180412.2,1182702.2,PAID
+EXP-00429,2026-07-06,5102,Utilities,V-005,MetroWater Services,Operations & IT,142900,25722.0,168622.0,PAID
+EXP-00430,2026-07-06,5106,Travel & Conveyance,V-016,CityCabs Corporate,Marketing,247020,29642.4,276662.4,PAID
+EXP-00431,2026-07-06,5108,Professional Fees,V-022,Prism Advisory Services,Legal & Compliance,222740,40093.2,262833.2,PAID
+EXP-00432,2026-07-07,5104,Cloud Hosting,V-008,NimbusCloud Services,Engineering,927110,166879.8,1093989.8,PAID
+EXP-00433,2026-07-07,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,244990,44098.2,289088.2,PAID
+EXP-00434,2026-07-08,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,17740,3193.2,20933.2,PAID
+EXP-00435,2026-07-10,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,315710,15785.5,331495.5,PAID
+EXP-00436,2026-07-10,5110,Training & Development,V-026,SkillSphere Training,Human Resources,64950,11691.0,76641.0,PAID
+EXP-00437,2026-07-16,5105,Software Subscriptions,V-010,CodeCraft Tools,Product & Design,42280,7610.4,49890.4,PAID
+EXP-00438,2026-07-16,5105,Software Subscriptions,V-010,CodeCraft Tools,Operations & IT,91710,16507.8,108217.8,PAID
+EXP-00439,2026-07-17,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,86010,15481.8,101491.8,PAID
+EXP-00440,2026-07-20,5108,Professional Fees,V-020,Ledger & Co Chartered Accountants,Legal & Compliance,597200,107496.0,704696.0,PAID
+EXP-00441,2026-07-20,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,332420,59835.6,392255.6,PAID
+EXP-00442,2026-07-22,5106,Travel & Conveyance,V-016,CityCabs Corporate,Marketing,145840,7292.0,153132.0,PAID
+EXP-00443,2026-07-24,5105,Software Subscriptions,V-010,CodeCraft Tools,Engineering,308170,55470.6,363640.6,PAID
+EXP-00444,2026-07-24,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,394210,70957.8,465167.8,PAID
+EXP-00445,2026-07-24,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,109910,19783.8,129693.8,PAID
+EXP-00446,2026-07-27,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,276140,49705.2,325845.2,PAID
+EXP-00447,2026-07-28,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,219120,39441.6,258561.6,PAID
+EXP-00448,2026-07-29,5110,Training & Development,V-025,LearnForge Academy,Human Resources,191160,34408.8,225568.8,PAID
+EXP-00449,2026-08-03,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,134800,24264.0,159064.0,PAID
+EXP-00450,2026-08-03,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,1532000,275760.0,1807760.0,PAID
+EXP-00451,2026-08-03,5101,Office Rent,V-001,Skyline Realty Holdings,Operations & IT,556020,100083.6,656103.6,PAID
+EXP-00452,2026-08-03,5112,Office Supplies,V-030,PrintPoint Stationers,Operations & IT,24770,4458.6,29228.6,PAID
+EXP-00453,2026-08-04,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,48380,2419.0,50799.0,PAID
+EXP-00454,2026-08-04,5110,Training & Development,V-026,SkillSphere Training,Human Resources,162020,29163.6,191183.6,PAID
+EXP-00455,2026-08-04,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,172810,31105.8,203915.8,PAID
+EXP-00456,2026-08-06,5102,Utilities,V-005,MetroWater Services,Operations & IT,376710,67807.8,444517.8,PAID
+EXP-00457,2026-08-06,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,46320,5558.4,51878.4,PAID
+EXP-00458,2026-08-06,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,125410,15049.2,140459.2,PAID
+EXP-00459,2026-08-07,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,156520,28173.6,184693.6,PAID
+EXP-00460,2026-08-10,5105,Software Subscriptions,V-012,SecureAuth Systems,Operations & IT,363010,65341.8,428351.8,PAID
+EXP-00461,2026-08-13,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Data & AI,1270070,228612.6,1498682.6,PAID
+EXP-00462,2026-08-14,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Data & AI,380520,68493.6,449013.6,PAID
+EXP-00463,2026-08-14,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,238330,28599.6,266929.6,PAID
+EXP-00464,2026-08-17,5103,Internet & Telecom,V-007,Connectix Telecom,Operations & IT,31480,5666.4,37146.4,PAID
+EXP-00465,2026-08-17,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,315500,15775.0,331275.0,PAID
+EXP-00466,2026-08-18,5108,Professional Fees,V-022,Prism Advisory Services,Legal & Compliance,759700,136746.0,896446.0,UNPAID
+EXP-00467,2026-08-18,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,199320,35877.6,235197.6,PAID
+EXP-00468,2026-08-19,5105,Software Subscriptions,V-012,SecureAuth Systems,Product & Design,145600,26208.0,171808.0,UNPAID
+EXP-00469,2026-08-21,5102,Utilities,V-005,MetroWater Services,Operations & IT,20300,3654.0,23954.0,PAID
+EXP-00470,2026-08-21,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,264890,47680.2,312570.2,PAID
+EXP-00471,2026-08-21,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,848440,152719.2,1001159.2,UNPAID
+EXP-00472,2026-08-24,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,53980,6477.6,60457.6,PAID
+EXP-00473,2026-08-25,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,16940,847.0,17787.0,PAID
+EXP-00474,2026-08-31,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Engineering,505760,91036.8,596796.8,UNPAID
+EXP-00475,2026-08-31,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,249790,44962.2,294752.2,UNPAID
+EXP-00476,2026-08-31,5108,Professional Fees,V-021,Lexicon Legal Associates,Finance & Accounts,418240,75283.2,493523.2,UNPAID
+EXP-00477,2026-08-31,5110,Training & Development,V-026,SkillSphere Training,Human Resources,160450,28881.0,189331.0,UNPAID
+EXP-00478,2026-09-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,1768980,318416.4,2087396.4,PAID
+EXP-00479,2026-09-01,5101,Office Rent,V-002,Garden City Workspaces,Operations & IT,310200,55836.0,366036.0,PAID
+EXP-00480,2026-09-01,5101,Office Rent,V-003,Marina Business Park LLP,Operations & IT,305820,55047.6,360867.6,UNPAID
+EXP-00481,2026-09-01,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Operations & IT,130360,23464.8,153824.8,UNPAID
+EXP-00482,2026-09-02,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,55570,10002.6,65572.6,PAID
+EXP-00483,2026-09-02,5104,Cloud Hosting,V-009,StratoHost Infrastructure,Data & AI,1801320,324237.6,2125557.6,UNPAID
+EXP-00484,2026-09-07,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,99150,4957.5,104107.5,PAID
+EXP-00485,2026-09-07,5110,Training & Development,V-025,LearnForge Academy,Human Resources,56510,10171.8,66681.8,UNPAID
+EXP-00486,2026-09-10,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,165000,29700.0,194700.0,PAID
+EXP-00487,2026-09-11,5106,Travel & Conveyance,V-014,SkyWay Travel Desk,Sales,488320,58598.4,546918.4,PAID
+EXP-00488,2026-09-11,5106,Travel & Conveyance,V-015,StayWell Corporate Hotels,Sales,20470,1023.5,21493.5,PAID
+EXP-00489,2026-09-11,5109,Recruitment Costs,V-023,TalentBridge Search,Human Resources,926130,166703.4,1092833.4,UNPAID
+EXP-00490,2026-09-14,5110,Training & Development,V-025,LearnForge Academy,Human Resources,312850,56313.0,369163.0,UNPAID
+EXP-00491,2026-09-15,5102,Utilities,V-004,Southern Power Distribution,Operations & IT,378170,68070.6,446240.6,UNPAID
+EXP-00492,2026-09-16,5104,Cloud Hosting,V-008,NimbusCloud Services,Data & AI,70030,12605.4,82635.4,UNPAID
+EXP-00493,2026-09-17,5107,Marketing & Advertising,V-018,BrandBridge Agency,Marketing,770670,138720.6,909390.6,UNPAID
+EXP-00494,2026-09-17,5112,Office Supplies,V-029,OfficeMart Supplies,Operations & IT,47000,8460.0,55460.0,PAID
+EXP-00495,2026-09-18,5105,Software Subscriptions,V-013,DataLens Analytics Licences,Engineering,823640,148255.2,971895.2,UNPAID
+EXP-00496,2026-09-23,5106,Travel & Conveyance,V-016,CityCabs Corporate,Sales,26560,3187.2,29747.2,UNPAID
+EXP-00497,2026-09-24,5108,Professional Fees,V-022,Prism Advisory Services,Finance & Accounts,375230,67541.4,442771.4,UNPAID
+EXP-00498,2026-09-28,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,110800,19944.0,130744.0,UNPAID
+EXP-00499,2026-09-29,5103,Internet & Telecom,V-006,FiberNet Broadband,Operations & IT,207200,37296.0,244496.0,UNPAID
+EXP-00500,2026-09-29,5109,Recruitment Costs,V-024,HireWell Consultants,Human Resources,146910,26443.8,173353.8,UNPAID
+EXP-00501,2026-09-30,5107,Marketing & Advertising,V-017,PixelPulse Media,Marketing,340680,61322.4,402002.4,UNPAID
