@@ -1,0 +1,55 @@
+﻿TASK 15 — EXECUTIVE COMPANY-HEALTH SCORECARD
+
+Selected KPIs:
+
+1. M01 — Workforce Headcount
+   Reason: Shows the current workforce size and capacity.
+
+2. M04 — Monthly Attrition
+   Reason: Measures employee retention and workforce stability.
+
+3. M09 — Employer Cost
+   Reason: Tracks the overall employer cost trend.
+
+4. M11 — Overtime Share
+   Reason: Highlights overtime usage and potential cost pressure.
+
+5. M13 — Attendance Rate
+   Reason: Measures workforce availability.
+
+6. M16 — Revenue
+   Reason: Tracks monthly business revenue.
+
+7. M17 — Net Profit
+   Reason: Shows the company's profitability.
+
+8. M18 — Operating Margin
+   Reason: Measures profitability relative to revenue.
+
+Removed KPIs:
+
+1. M02 — Hires
+   Reason: Headcount already represents workforce size in the executive snapshot.
+
+2. M03 — Exits
+   Reason: Monthly attrition provides a more comparable employee-retention indicator.
+
+3. M24 — Velocity
+   Reason: Team-specific measure and not suitable for a company-wide executive comparison.
+
+VALIDATION NOTES:
+
+- All selected KPIs are sourced from their corresponding metric views.
+- Department-level rates use the median of reportable department rates.
+- Target compliance is calculated using configured department targets.
+- No target is invented when no target is configured.
+- Suppressed or null values are not treated as zero.
+- Trends compare against the previous calendar month.
+- Detailed KPI pages are linked from the executive scorecard.
+- The scorecard is designed for A4 portrait printing.
+
+EVIDENCE FILES:
+
+- Task15_Executive_Scorecard.png
+- Task15_KPI_Detail_M04.png
+- Task15_Executive_Scorecard_A4.pdf
