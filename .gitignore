@@ -29,3 +29,5 @@ phase-*/evidence/*.csv
 *.bak
 app_backup_before_task8.py
 streamlit_test.py
+
+metric_views_examples_backup.sql
