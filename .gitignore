@@ -21,3 +21,6 @@ reports/*.txt
 # Local generated files
 
 docs/*.csv
+
+# Keep phase evidence CSV data local
+phase-*/evidence/*.csv
