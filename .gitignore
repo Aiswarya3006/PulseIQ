@@ -24,3 +24,8 @@ docs/*.csv
 
 # Keep phase evidence CSV data local
 phase-*/evidence/*.csv
+
+# Local backup and test files
+*.bak
+app_backup_before_task8.py
+streamlit_test.py
